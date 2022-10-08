@@ -8,13 +8,114 @@ body
 {
     height: 100vh;
     width: 100vw;
-    padding-top: 300px;
+    padding-top: 100px;
    
 }
 
-#container a
+.link
 {
     text-decoration: none;
     font-style: none;
     color: #fff;
+    
 }
+.ing
+{
+    
+  font-size: 40px;
+   
+}
+
+.butn
+{
+   
+    margin: 5px;
+    font-size: 20px;
+    border: 2px solid rgb(245, 245, 65);
+    padding: 1em 2.2em;
+    border-radius: 3em;
+    background-color: transparent;
+    color: rgb(245, 245, 65);
+    cursor: pointer;
+    transition: 500ms;
+    text-align: center;
+}
+.butn:hover
+{
+    background-color: rgb(225, 197, 125);
+    transform: translateY(-10px);
+    
+}
+.noHover{
+    pointer-events: none;
+}
+.videotitle
+{
+    font-size: 28px;
+ 
+}
+
+.card{
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(222, 103, 85);
+    transition: 500ms;
+    background-color:blanchedalmond;
+    width: 730px;
+    height: 100hv;
+}
+.card:hover
+{
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+.detail
+{
+    display: block;
+    margin: 0 auto;
+}
+.active
+{
+    border: 3px solid rgb(251, 230, 73);
+    background-color:coral;
+    box-shadow: 5px 5px 5px 5px rgb(225, 197, 125);
+    
+}
+.hide {
+    display: none;
+  }
+
+.parag
+{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+  .frame
+  {
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(210, 191, 143);
+    width: 800px;
+    height: 400px;
+  }
+
+@media screen and (max-width: 690px) {
+    .butn
+    {
+        font-size: 16px;
+        margin: 5px;
+    }
+    .frame{
+        width: 520px;
+        height: 400px;
+
+    }
+    .parag
+    {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+  
+  }
