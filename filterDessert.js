@@ -6,7 +6,7 @@ let recipes = {
       videoTitle:
         "كيكة الخمس ملاعق مذاق رهيب لا يقاوم بدون كريمة بمكونات جد بسيطة واقتصادية كيك ادمااان",
       description:
-        "مكونات الكيك<br/> جوج بيضات  <br/>5ملاعق من السكر 100غرام <br/>5ملاعق من الزيت 50مل<br/>5ملاعق من الحليب 70مل<br/> 5ملاعق من الدقيق 100غرام<br/> 3ملاعق من بدرة الكاكاو الخام 30غ<br/> ملعقة صغيرة من خميرة الحلويات 7غرام<br/> كيس سكر الفانيليا<br/> قبصة ملح<br/> كأس حليب <br/> كيس قهوة سريعة الذوبان<br/> طبقة التانية:<br/> نصف لتر من الحليب<br/>   50غرام من نشا الذرة<br/> كيس سكر الفانيليا<br/> كأس الا ربع من السكر 120غرام <br/>ملعقة صغيرة من الزبدة 15غرام  <br/>علبة دانيت شكلاطة 125غرام <br/>  60غرام من الشكلاطة السوداء<br/> طبقة التالتة:<br/> 140غرام من شكلاطة سوداء<br/> ربع كأس من الحليب الساخن 70مل  <br/>لتزين :<br/> شكلاطة فيغميسيل5",
+        "2بيضات+ 5ملاعق من السكر 100غرام+ 5ملاعق من الزيت 50مل+ 5ملاعق من الحليب 70مل+ 5ملاعق من الدقيق 100غرام+ 3ملاعق من بدرة الكاكاو الخام 30غ+  ملعقة صغيرة من خميرة الحلويات 7غرام+  كيس سكر الفانيليا + قبصة ملح + كأس حليب+ كيس قهوة سريعة الذوبان + طبقة التانية : نصف لتر من الحليب+ 50غرام من نشا الذرة+  كيس سكر الفانيليا + كأس الا ربع من السكر 120غرام +ملعقة صغيرة من الزبدة 15غرام+  علبة دانيت شكلاطة 125غرام+ 60غرام من الشكلاطة السوداء,  طبقة التالتة :140غرام من شكلاطة سوداء+  ربع كأس من الحليب الساخن  70 مل, لتزين : شكلاطة فيغميسيل",
       category: "Dessert",
       tags: "بيض,سكر,زيت,حليب,دقيق,كاكاو,خميرة الحلويات,سكر الفانيليا,ملح,قهوة,نشا,زبدة,دانيت شكلاطة ,شكلاطة سوداء ",
       tags_eng:"eggs sugar oil milk flour cacao bkp vanilla mayzena butter danette chocolat",
@@ -19,7 +19,7 @@ let recipes = {
       videoTitle:
         "من ليوم يستحيل تبدليه كيك يومي غيردرهم1ديري لفرق غينسيك فجميع لكيكات طااالع وخفيفه ب2بيضات",
       description:
-        "2بيضات <br/> 1ياغورت وزن 110غرام <br/> سكر وزيت بنفس علبت   ياغورت <br/> دقيق بنفس علبت ياغورت 3مرات <br/> 3خمرات من فأت 8غرام <br/> قطر لمول مابين 24 حتى 26 سانتيم <br/> ",
+        "2بيضات+1ياغورت وزن 110غرام +سكر وزيت بنفس علبت   ياغورت+ دقيق بنفس علبت ياغورت 3مرات +3خمرات من فأت 8غرام قطر لمول مابين 24 حتى 26 سانتيم+",
       category: "Dessert",
       tags: "بيض,ياغورت,سكر,زيت,دقيق",
       tags_eng: "eggs sugar oil yogurt flour",
@@ -32,7 +32,7 @@ let recipes = {
       videoTitle:
         "كرص/قريشلات/ بريوش بالحليب رطب كالقطن خطوة بخطوة بمقادير مضبوطة وناجحة  بدون دلك او مجهود",
       description:
-        "220ملل حليب دافئ <br/> 70ملل زيت <br/> نصف كأس سكر <br/> ملعقة خميرة فورية <br/> نصف ملعقة ملح <br/> فانيلا <br/> بيضة <br/> 7غ خمیره حلویات <br/> 500 غ دقيق ابيض",
+        "220ملل حليب دافئ +70ملل زيت +نصف كأس سكر+ملعقة خميرة فورية +نصف ملعقة ملح +فانيلا+بيضة+7غ خمیره حلویات+500 غ دقيق ابيض",
       category: "Dessert",
       tags: " حليب,زيت,سكر,بيضة,دقيق",
       tags_eng: "eggs sugar oil flour milk yeast",
@@ -45,13 +45,26 @@ let recipes = {
       videoTitle:
         "طريقة تحضير كريب حلو بطريقة جد مبسطة للمبتدئات مع صلصة الشوكولا بديل نوتيلا",
       description:
-        " 2 بيضات <br/> دقيق (ما يعادل زلافة ممتلئة)  <br/> 8غ فانيلا <br/>3ملاعق زيت ( او 3 ملاعق زبدة ذائبة) <br/>3 ملاعق سكر <br/>  حليب (مايعادل 4 كؤوس  و نصف ديال العنبة) <br/> رشة ملح",
+        "2 بيضات+250 غ دقيق (ما يعادل زلافة ممتلئة)+8 غ فانيلا+3 ملاعق زيت ( او 3 ملاعق زبدة ذائبة)+3 ملاعق سكر+650 ملل حليب (مايعادل 4 كؤوس  و نصف ديال العنبة)+ رشة ملح",
       category: "Dessert",
       tags: "بيض,دقيق,فانيلا,زيت,سكر,حليب",
       tags_eng: "eggs oil sugar flour vanilla milk",
       subcategory: "--",
       img: "images/images/id4.1.jpg",
     },
+    {
+        id: 5,
+        youtubeLink: "https://www.youtube.com/embed/cyIi4K3OTQE&ab_channel=%D9%88%D8%B5%D9%81%D8%A7%D8%AA%D9%87%D9%86%D8%AF%D9%88%D8%B4%D8%A9RecettesHindoucha",
+        videoTitle:
+          "الفطائر القطنية في المقلاة فرمشة عين إقتصاديين لفطور صباح أو كوتيا",
+        description:
+          "2بيضات + سكر =3م.ك  +سكر فاني+ زيت =3م.ك  +كوب و نصف حليب +خميرة بيكنباودر=14غ +دقيق حسب الخليط تقريبا 8م.ك",
+        category: "Dessert",
+        tags: "خميرة الحلويات,بيض,دقيق,فانيلا,زيت,سكر,حليب",
+        tags_eng: "eggs oil sugar flour vanilla milk bkp",
+        subcategory: "--",
+        img: "images/images/id5.1.jpg",
+      },
   ],
 };
 
@@ -64,7 +77,7 @@ for (let r of recipes.data) {
 
   card.classList.add("card", "hide", "col-12");
   link.setAttribute("href", "#");
-  link.classList.add("text-dark", "fw-bold", "fs-3", "p-3", "text-center");
+  link.classList.add("text-dark", "fw-bold", "title", "p-3", "text-center");
   link.innerHTML = r.videoTitle;
   image.setAttribute("src", r.img);
   image.classList.add("img-thumbnail", "mx-auto", "d-block", "p-2");
@@ -89,7 +102,7 @@ for (let r of recipes.data) {
     let btn = document.createElement("button");
 
     detail.classList.add("detail", "col-12");
-    title.classList.add("text-center", "text-light", "fw-bold", "m-3");
+    title.classList.add("text-center", "text-light", "fw-bold", "m-3","fs-1");
     title.innerText = r.videoTitle;
     detail.appendChild(title);
     frame.setAttribute("src", r.youtubeLink);
@@ -100,7 +113,6 @@ for (let r of recipes.data) {
       "text-light",
       "fw-bolder",
       "m-5",
-      "text-decoration-underline",
       "ing"
     );
     par.innerHTML = r.description;
@@ -137,34 +149,74 @@ for (let r of recipes.data) {
 }
 var arr = [];
 //#####################################################
-
+function choiceInRecipe(card,arr)
+  {
+    var pr=1;
+  
+    for (var i = 0; i < arr.length; i++) 
+    {
+      if(card.lastChild.innerHTML.includes(arr[i]))
+      {
+        pr=pr*1;
+      }else
+      {
+        pr=pr*0;
+        break;
+      }
+      
+    }
+    if(arr.length==0)
+    {
+      pr=0;
+    }
+    return pr;
+  }
+var c=1;
 function filterRecipe(value) {
   let buttons = document.querySelectorAll(".butn");
   let cards = document.querySelectorAll(".card");
   //ajout des valeurs selectionnees 
-  arr.push(value);
   
+
   buttons.forEach((button) => {
     if (button.classList.contains(value)) {
+        arr.push(value);
       button.classList.add("active");
-      button.classList.add("noHover");
+      //button.classList.add("noHover");
     }
   });
- 
-  
-  cards.forEach((card) => {
-    arr.every(function checkcontain(e){
-       if(card.lastChild.innerHTML.includes(e))
-       {
-         card.classList.remove("hide");
-         card.classList.add("show");
+  for(let i=0;i<arr.length;i++)
+  {
+      if(arr[i]=== value)
+      {
+         c++;
+      }
+  }
+   
+  if(c %2 != 0){ 
+      console.log(value+"clicked two times");
+      buttons.forEach((button) => {
+          if (button.classList.contains(value)) {
+       button.classList.remove("active"); }
+       const index = arr.indexOf(value);
+       if (index > -1) { // only splice array when item is found
+         arr.splice(index, 1); // 2nd parameter means remove one item only
        }
-    });
-  
-   });
-
-
+          });}
 
  
-  
+ 
+  cards.forEach((card) => 
+          {
+            // -----   call the choiceInResipe here ---------
+              if (choiceInRecipe(card,arr)) 
+              {
+                card.classList.remove("hide");
+                card.classList.add("show");
+              } else 
+              {
+                card.classList.add("hide");
+                card.classList.remove("show");
+              }
+          });
 }
